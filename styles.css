@@ -1,5 +1,6 @@
 html {
     background-color: darkgray;
+    font-family: Georgia, serif;
 }
 
 #page {
@@ -18,6 +19,7 @@ html {
     padding: 10px;
     text-align: center;
     background-color: lightgreen;
+    font-family: Verdana, sans-serif;
 }
 
 p {
