@@ -24,6 +24,7 @@ html {
 
 .recipe-name {
 text-align: center;
+border-bottom: 4px solid;
 }
 
 h2 {
@@ -35,7 +36,7 @@ img {
     display: block;
 }
 
-.step img {
+img {
     border: 2px solid darkgray;
     border-radius: 2px;
 }
