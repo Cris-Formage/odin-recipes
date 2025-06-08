@@ -1,0 +1,54 @@
+html {
+    background-color: darkgray;
+}
+
+#page {
+    border-radius: 10px;
+    height: auto;
+    width: 800px;
+    padding: 8px;
+    margin: 10px auto;
+    background-color: lightgray;
+}
+
+.title {
+    border: 8px solid black;
+    border-radius: 10px;
+    margin: 8px auto;
+    padding: 10px;
+    text-align: center;
+    background-color: lightgreen;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.recipe-name {
+text-align: center;
+border-bottom: 4px solid;
+}
+
+h2 {
+    border-bottom: 4px solid;
+}
+
+a,
+img {
+    display: block;
+}
+
+img {
+    border: 2px solid darkgray;
+    border-radius: 2px;
+}
+
+.banner {
+    margin: 8px auto;
+}
+
+li {
+    margin: 8px;
+}
+
+.step img {
+    margin: 8px 0px;
+}
